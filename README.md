@@ -1,7 +1,7 @@
 # NumberGuessing_game
 Number Guessing game
 
-**Welcome to my repository. I'm presenting a number guessing game.
+##Welcome to my repository. I'm presenting a number guessing game.
 
 * ABSTRACT:-
  # This game was developed with the Python programming language, which provides randomness. The range modules are used in conjunction with a computer.
